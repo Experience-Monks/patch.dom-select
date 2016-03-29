@@ -1,0 +1,28 @@
+{
+  "name": "patch.dom-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "qwery": "^3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/patch.dom-select.git"
+  },
+  "homepage": "https://github.com/Jam3/patch.dom-select",
+  "bugs": {
+    "url": "https://github.com/Jam3/patch.dom-select/issues"
+  }
+}
